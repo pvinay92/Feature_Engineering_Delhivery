@@ -31,8 +31,8 @@ This project analyzes shipment and delivery performance data for **Delhivery**, 
 
 ### 2. Delivery Trends by State
 
-![Top Destination States](path/to/destination_states.png)
-
+[![Top Destination States](path/to/destination_states.png)
+](https://github.com/pvinay92/Feature_Engineering_Delhivery/blob/444cf075040efd606aefee0a2987f9c46a1794f7/Days%20with%20most%20deliveries.png)
 > Insight: Maharashtra and Karnataka dominate delivery volume as both source and destination states.
 
 *(You can export these graphs from your notebook using `plt.savefig()` and replace the `path/to/...` with actual image paths.)*
