@@ -25,7 +25,7 @@ This project analyzes shipment and delivery performance data for **Delhivery**, 
 
 ### 1. Route Type Distribution
 
-![Route Type Distribution](Days with most deliveries.png)
+[![Route Type Distribution](Days with most deliveries.png)](https://github.com/pvinay92/Feature_Engineering_Delhivery/blob/2edc9c072635c687e51689cc5fdf5c828ea169d5/Analyzing%20actual%20time%20vs%20osrm%20time%20for%20each%20state.png)
 
 > Insight: Carting accounts for ~60% of all shipments and is significantly faster than FTL (Full Truck Load).
 
