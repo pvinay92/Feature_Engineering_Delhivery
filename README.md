@@ -48,7 +48,7 @@ This project analyzes shipment and delivery performance data for **Delhivery**, 
 
 ## ❓Need Help?
 
-If you encounter issues running the notebook or want to discuss the business insights further, feel free to reach out on [LinkedIn](https://www.linkedin.com/) or raise an issue in the repository.
+If you encounter issues running the notebook or want to discuss the business insights further, feel free to reach out on [LinkedIn][(https://www.linkedin.com/](https://www.linkedin.com/in/vinay-p-840b1278/)) or raise an issue in the repository.
 
 ---
 
